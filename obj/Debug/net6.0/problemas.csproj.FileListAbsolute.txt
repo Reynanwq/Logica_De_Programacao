@@ -1,0 +1,30 @@
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/problemas
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/problemas.deps.json
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/problemas.runtimeconfig.json
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/problemas.dll
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/ref/problemas.dll
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/bin/Debug/net6.0/problemas.pdb
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.dll
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/ref/problemas.dll
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.pdb
+/home/reynan/Área de Trabalho/GFT Brasil/problemas/obj/Debug/net6.0/problemas.genruntimeconfig.cache
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/problemas
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/problemas.deps.json
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/problemas.runtimeconfig.json
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/problemas.dll
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/ref/problemas.dll
+/home/reynan/Área de Trabalho/problemas/bin/Debug/net6.0/problemas.pdb
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.csproj.AssemblyReference.cache
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.AssemblyInfoInputs.cache
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.AssemblyInfo.cs
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.csproj.CoreCompileInputs.cache
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.dll
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/ref/problemas.dll
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.pdb
+/home/reynan/Área de Trabalho/problemas/obj/Debug/net6.0/problemas.genruntimeconfig.cache
