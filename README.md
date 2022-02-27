@@ -1,3 +1,3 @@
-# Problemas-Python
-É aqui onde pretendo colocar minhas Resoluções de Problemas em Python que eu resolvi no 1° semestre do curso.
+# Lógica de Programação C#
+Minhas Resoluções de Problemas em C# que eu resolvi no 1° semestre do faculdade.
 
